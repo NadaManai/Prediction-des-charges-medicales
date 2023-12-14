@@ -1,1 +1,1 @@
-# Pr-diction-des-charges-m-dicales
+# Prédiction-des-charges-médicales
