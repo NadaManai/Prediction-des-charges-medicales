@@ -1,4 +1,4 @@
-# Projet d'Analyse et Modélisation des Charges Médicales
+# Projet de prédicition des Charges Médicales pour une assurance 
 
 ## Motivation
 Afin qu'une compagnie d’assurance prospère financièrement, elle doit collecter plus de primes annuelles qu'elle n'en dépense en soins médicaux pour ses bénéficiaires. En conséquence, les assureurs investissent beaucoup de temps et d'argent pour développer des modèles permettant de prédire avec précision les dépenses médicales. Ce projet a pour objectif de construire un modèle de régression pour prédire les charges médicales d'une personne et déterminer les variables les plus influentes.
